@@ -23,7 +23,6 @@ public class PlayerMove : MonoBehaviour
     #region Unity Lifecycle
     void Start()
     {
-        
     }
     void Update()
     {
